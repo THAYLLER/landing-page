@@ -332,3 +332,6 @@ img-raised {
     margin: 0;
     padding: 0;
 }
+.fa-envelope,.fa-phone {
+    font-size: 50px;
+}
